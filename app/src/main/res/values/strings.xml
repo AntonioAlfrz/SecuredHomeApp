@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SecuredHome</string>
+    <string name="photo">Take photo</string>
+    <string name="list">Photos list</string>
+</resources>
